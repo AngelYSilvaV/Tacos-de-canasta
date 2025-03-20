@@ -1,2 +1,3 @@
 # Tacos-de-canasta
-Repostorio ejemplo para la clase de Spring
+Repositorio ejemplo para la clase de Spring
+Podemos agregar más texto de ser necesario para seguir explicando las características.

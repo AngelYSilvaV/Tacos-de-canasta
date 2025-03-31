@@ -1,1 +1,2 @@
 Agregando un archivo extra para checar comportamiento.
+Vamos a editar este show para ver cómo reacciona en la terminal.
